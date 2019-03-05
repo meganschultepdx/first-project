@@ -1,1 +1,2 @@
-# Megan's First Project ✨
+# Megan's First Project ✨ 
+## getting everything set up 
